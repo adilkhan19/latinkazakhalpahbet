@@ -1,2 +1,2 @@
-# latinkazakhalpahbet-
+# latinkazakhalpahbet
 latin kazakh alphabet
